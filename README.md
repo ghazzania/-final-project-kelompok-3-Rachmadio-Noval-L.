@@ -11,7 +11,7 @@ Link Dataset: https://www.kaggle.com/datasets/barun2104/telecom-churn?datasetId=
 
 Problem: Classification
 
-Final Model: Random Forest
+Final Model: Gradien Boosting
 
 Link Repositori: https://github.com/ghazzania/final-project-kelompok-3-Rachmadio-Noval-L.
 
